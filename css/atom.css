@@ -1,0 +1,15 @@
+body {
+    background: white;
+}
+h2 {
+    color:  rgb(5, 56, 242);
+    font-size: 28pt;
+}
+span {
+    background-color: green;
+    color: white;
+}
+footer {
+    text-align: center;
+    font-size: 12pt;
+}
